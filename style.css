@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.uzum{
+    height: 150vh;
+    background: #fa8072;
+}
+
+.uzum__market h1{
+    height: 100px;
+    font-family: 'poppins',sans-serif;
+    font-size: 45px;
+    font-weight: 100;
+    line-height: 100px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #fff;
+}
+
+.uzum__tezkor__market{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: end;
+}
+
+.pages{
+    width: 300px;
+    height: 250px;
+    background: #fff;
+    border-radius: 10px;
+}
+
+.pages p{
+     font-family: 'poppins',sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.pages h2{
+    font-family: 'poppins',sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 100px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #000;
+}
+
+
+
+.pages ul{
+    text-align: center;
+    list-style: none;
+}
+
+.pages a{
+    font-family: 'poppins',sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 50px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #fa8072;
+}   
+
+.metr{
+    width: 300px;
+    height: 350px;
+    background: #fff;
+    border-radius: 10px;
+}
+
+.metr h2{
+    font-family: 'poppins',sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 100px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #000;
+}
+
+.metr ul{
+    list-style: none;
+    text-align: center;
+}
+
+.metr a{
+    font-family: 'poppins',sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 70px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #fa8072;
+}
+
+.metr p{
+    font-family: 'poppins',sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.hydro{
+    width: 300px;
+    height: 450px;
+    background: #fff;
+    border-radius: 10px;
+}
+
+.hydro h2{
+    font-family: 'poppins',sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 100px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #000;
+}
+
+
+.hydro ul{
+    list-style: none;
+    text-align: center;
+}
+.hydro a{
+     font-family: 'poppins',sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 80px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #fa7272;
+}
+
+.hydro p{
+   font-family: 'poppins',sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 1px;
+    text-align: center; 
+}
+
+.modem{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.awabe input{
+    width: 1000px;
+    height: 60px;
+    background: #fa7272;
+    border: 2px solid #71717171;
+    border-radius: 10px;
+    text-align: center;
+   font-size: 18px;
+   color: #fff;
+   
+}
+
+.modem p{
+    font-family: 'poppins',sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 70px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-align: center;
+    color: #fff;
+}
+
+.modem a{
+    color: #fff;
+}
